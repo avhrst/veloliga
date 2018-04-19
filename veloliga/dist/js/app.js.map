@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA","file":"app.js","sourcesContent":["function a(){\n    return 1;\n}\n\n"]}
